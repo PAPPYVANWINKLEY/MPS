@@ -1,0 +1,172 @@
+[
+  {
+    "path": "dist/app.js",
+    "bytes": 14391,
+    "sha256": "7da50eed5903eb6cec62d117125075058366a03d5a4a3b482b62c34081e3af1a"
+  },
+  {
+    "path": "dist/assets/album.webp",
+    "bytes": 230366,
+    "sha256": "52b133b55bbfb2cd84c2e2274d574519b6ef4bee8d88f9922ce2f55e619ab458"
+  },
+  {
+    "path": "dist/assets/apartment.webp",
+    "bytes": 185858,
+    "sha256": "72a3750a7fc1d00d088d8a87d206322ba1c42d3e77ca8dcd5975dc42c3ca7acf"
+  },
+  {
+    "path": "dist/assets/bread.webp",
+    "bytes": 100812,
+    "sha256": "70dfa2b525a139c971f930df6d54b843f534b65d53fb1c363264fa3d6fc79f48"
+  },
+  {
+    "path": "dist/assets/carrots.webp",
+    "bytes": 105106,
+    "sha256": "c91e986f5843de759809604aec52942e4473692a316513c0637e9ce37cf96dac"
+  },
+  {
+    "path": "dist/assets/cashier-bag.webp",
+    "bytes": 170294,
+    "sha256": "c2829e17ae6a83019e24e5a879ab8c8ee7f0e9410916735a47189db2d4488135"
+  },
+  {
+    "path": "dist/assets/cctv.webp",
+    "bytes": 286236,
+    "sha256": "73e46d9cb43215d05b7a1f914de7a8d4e83414834cc1b80bd98cd81bb9b61e8c"
+  },
+  {
+    "path": "dist/assets/central-asia-street.webp",
+    "bytes": 336098,
+    "sha256": "7e07c2d8ac21571064707e7f926e54f9a9c0eef065c50b3fbbff454b24bd1463"
+  },
+  {
+    "path": "dist/assets/chocolate.webp",
+    "bytes": 84612,
+    "sha256": "6557c001b2e878a77d57b13bcdd701dbea25e0dc2f6704dbe36fd5af0d09fcd4"
+  },
+  {
+    "path": "dist/assets/dumplings.webp",
+    "bytes": 131934,
+    "sha256": "a1ce8c8e40ba8a2552af227f418ec9983594fe550f4bb79b4e04df04b32d52df"
+  },
+  {
+    "path": "dist/assets/jjimjilbang.webp",
+    "bytes": 244104,
+    "sha256": "4d720a6b42408a6ffde8cac41796c7fe2943d47ebfff09822b6521f1799d1469"
+  },
+  {
+    "path": "dist/assets/kvass.webp",
+    "bytes": 96820,
+    "sha256": "9151117aa6af2e2d6c84d9d35bf58323ef0eed9352e5c0de0ef6f87aed8c5cb2"
+  },
+  {
+    "path": "dist/assets/night-store.webp",
+    "bytes": 177868,
+    "sha256": "0df59e89e7eb238653176d915254f9c6eb933d218204babbfe3edf316c3d5812"
+  },
+  {
+    "path": "dist/assets/npc-aigerim.webp",
+    "bytes": 163486,
+    "sha256": "b2215f69a33d706a6d000d38b1b22db1c2637f1047c79f9a1d60c24010741c80"
+  },
+  {
+    "path": "dist/assets/npc-elders.webp",
+    "bytes": 191366,
+    "sha256": "5260649bf8a7ffb84beefee14718b4da9e5872c9a1a5ff2774a07e3866ac1a42"
+  },
+  {
+    "path": "dist/assets/npc-gulnara.webp",
+    "bytes": 192294,
+    "sha256": "ef607366f8d08d57cda92db4e455fa1ef934afa35243341c031640f31cdfe4fc"
+  },
+  {
+    "path": "dist/assets/npc-landlady.webp",
+    "bytes": 206976,
+    "sha256": "fbde67d1cea00c0b13ad4c4d9772647cfa7f6ee409bb1564b66717c47b913b18"
+  },
+  {
+    "path": "dist/assets/npc-parents.webp",
+    "bytes": 268492,
+    "sha256": "1b3d4b3ee873f144536adcc0079cae71276c2ac0ff0a7018ff8cc32d65b004b3"
+  },
+  {
+    "path": "dist/assets/npc-sailors.webp",
+    "bytes": 255944,
+    "sha256": "be2df77961db448348302a9f9e73795e527acb000b2ec459599a76008655b152"
+  },
+  {
+    "path": "dist/assets/ost.mp3",
+    "bytes": 5822334,
+    "sha256": "23db4533cf7fe246166294938a369c4d54b67854377c832ff8b73464ac1508a7"
+  },
+  {
+    "path": "dist/assets/pelmeni-offer.webp",
+    "bytes": 201072,
+    "sha256": "cd1ecad05fcafae7e6ac7c0223e0863098d37d088bda74fc2655d9b6ff39d33c"
+  },
+  {
+    "path": "dist/assets/pickles.webp",
+    "bytes": 112878,
+    "sha256": "9f367aab64846a2fdb9be977b76d0cefb34f602edcc83430536d6c08f43821f0"
+  },
+  {
+    "path": "dist/assets/promo-coffee.webp",
+    "bytes": 974268,
+    "sha256": "f8a2d9830160b2ea54fdb268f860157d819e79e588deef3468cee49e2bfde1cc"
+  },
+  {
+    "path": "dist/assets/promo-paid.webp",
+    "bytes": 173124,
+    "sha256": "801cbc002c32acd9ba937bcb6fce012e59217ab9c51f3bff127d69db0a31fa55"
+  },
+  {
+    "path": "dist/assets/promo-stacked.webp",
+    "bytes": 85670,
+    "sha256": "3b5802cd3360a6f3d8d0632459cd0c3ffd157b5a0f6a269849dfe5065a15b60c"
+  },
+  {
+    "path": "dist/assets/samovar.webp",
+    "bytes": 162176,
+    "sha256": "986fc074e9910a5fad9e9bd698b2b2fc9ea1f49e67c8482ae98041cfc7df4f6f"
+  },
+  {
+    "path": "dist/assets/sour-cream.webp",
+    "bytes": 66026,
+    "sha256": "4b01af6ec661878f7176db364f1705b0f9c8d03f561acdebfcafce87e18e65ea"
+  },
+  {
+    "path": "dist/assets/storage.webp",
+    "bytes": 136890,
+    "sha256": "59f955ceb039cd5bcdf03ced80516d5cb2f44e70d2b0a0950475d8bd31d30738"
+  },
+  {
+    "path": "dist/assets/store.webp",
+    "bytes": 243096,
+    "sha256": "272d2f928f358f3ad9628f7ee28869672af911ff183bc0d8b6255b5b9c0f5461"
+  },
+  {
+    "path": "dist/assets/tea-boxes.webp",
+    "bytes": 216788,
+    "sha256": "1c25f44031b4c5fc59f7aa76b7d8c66acc042b1ce06f9e7e1f83e106e59bc083"
+  },
+  {
+    "path": "dist/assets/tea.webp",
+    "bytes": 120428,
+    "sha256": "e2456dea4f17330eec43895d5859433241352b5c028cbc9604d2531f612b6a3f"
+  },
+  {
+    "path": "dist/index.html",
+    "bytes": 11738,
+    "sha256": "ff046063578c15b2a03c9b37077d66e3f0d72a65817ca763dc2b57e71917907a"
+  },
+  {
+    "path": "dist/style.css",
+    "bytes": 39602,
+    "sha256": "bac6f621f249844273a7eb8071ace50186fffc0a235d71d6340c141c67010654"
+  },
+  {
+    "path": "dist/world.js",
+    "bytes": 18182,
+    "sha256": "ad2814086a935ce1d69dfbb4ceaad87c1af0bd3b17e12545ce20d918ad2df18b"
+  }
+]
