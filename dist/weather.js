@@ -13,6 +13,7 @@ if(!current||!Number.isFinite(current.temperature_2m))throw Error();
 b.textContent=area+' '+sky(current.weather_code,current.is_day)+' '+Math.round(current.temperature_2m)+'°';
 b.title='현재 위치 기준 · 눌러서 갱신';last=Date.now();enabled=true;
 }catch(e){b.textContent=e.code===1?'위치 허용 후 날씨 보기':'내 동네 날씨 · 재시도';last=0;}finally{busy=false;b.disabled=false;}}
-b.onclick=()=>{if(!enabled&&!confirm('동네와 날씨 조회를 위해 현재 위치를 BigDataCloud와 Open-Meteo에 전달합니다. 계속할까요?'))return;enabled=true;refresh();};
+document.getElementById('lead').addEventListener('click',()=>{enabled=true;refresh();});
+b.onclick=()=>{if(!enabled){location.hash='';document.getElementById('lead').focus();return;}refresh();};
 setInterval(()=>{if(enabled&&last&&!document.hidden&&Date.now()-last>900000)refresh();},60000);
 })();
