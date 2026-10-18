@@ -103,3 +103,5 @@ NPC: npc-gulnara / npc-elders / npc-aigerim / npc-sailors / npc-parents / npc-la
 - 현재 작업·배포 기준은 GitHub main의 dist 및 https://pappyvanwinkley.github.io/MPS/ 이다. GitHub Actions로 dist를 배포한다. 위의 최초 인계 시점 상태와 구분한다.
 
 2026-10-17 수정: 실제 플레이에 조연 이미지가 추가되어 동네 사람들의 ‘조연들의 이미지는 실제 플레이시 출력되지 않습니다.’ 문구를 삭제했다. 복원하지 않는다.
+
+2026-10-18 수정: 아이게림이 가게의 SNS 홍보와 번역을 맡는 설정을 소개에서 명확히 했다. ‘한 입만 먹고 가요’ 펠메니 배너는 https://share.crack.wrtn.ai/xsubovh 로 연결하며, CTA는 ‘이야기 보러 가기’다. 기존 #shop 연결을 대체한다.
